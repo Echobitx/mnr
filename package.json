@@ -1,0 +1,26 @@
+{
+  "name": "mnr",
+  "version": "1.0.0",
+  "description": "learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc -v"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jscomplete/mnr.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jscomplete/mnr/issues"
+  },
+  "homepage": "https://github.com/jscomplete/mnr#readme",
+  "dependencies": {
+    "typescript": "^4.9.5"
+  },
+  "devDependencies": {
+    "eslint": "^8.34.0",
+    "prettier": "^2.8.4"
+  }
+}
